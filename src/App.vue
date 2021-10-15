@@ -1,6 +1,12 @@
+<!--
+ * @Atuhor: Lee
+ * @Date: 2021-10-15 13:52:18
+ * @LastEditTime: 2021-10-15 14:15:55
+ * @FilePath: \uccn\src\App.vue
+-->
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="Welcome to Your Vue.js 我来了"/>
 </template>
 
 <script>
